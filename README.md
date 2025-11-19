@@ -7,7 +7,7 @@ The goal of this portfolio is to provide clear, practical demonstrations of my e
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 01_Threat_Models/ → STRIDE analyses, DFDs, CVSS scoring, mitigations
 02_Systems_VV_Artifacts/ → SRS samples, test cases, and traceability matrices
 03_Software_Testing_Demos/ → Python / PowerShell examples for automation and log analysis
@@ -17,21 +17,21 @@ The goal of this portfolio is to provide clear, practical demonstrations of my e
 
 ---
 
-## 🧩 Focus Areas
+## Focus Areas
 
-### **🔹 Systems Engineering**
+### **Systems Engineering**
 - Requirements development and decomposition  
 - Interface analysis  
 - Use case modeling and risk-informed design  
 - Traceability across lifecycle artifacts  
 
-### **🔹 Software Verification & Validation**
+### **Software Verification & Validation**
 - V-model documentation (SRS → TC → RTM)  
 - Test planning, test case design, and coverage analysis  
 - Defect tracking and root cause thinking  
 - Regulatory-style documentation  
 
-### **🔹 Product Cybersecurity**
+### **Product Cybersecurity**
 - Threat modeling (DFD + STRIDE + mitigations)  
 - CVSS scoring and risk prioritization  
 - Firmware and embedded system attack surface analysis  
@@ -39,7 +39,7 @@ The goal of this portfolio is to provide clear, practical demonstrations of my e
 
 ---
 
-## 🧪 Representative Artifacts
+## Representative Artifacts
 
 This repository includes examples such as:
 
@@ -55,7 +55,7 @@ None of the content is derived from proprietary work; all examples are original 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This portfolio is part of my professional extention into a **Systems**, **V&V**, or **Cybersecurity Engineer** role within the Chicago medical device ecosystem.  
 It demonstrates:
